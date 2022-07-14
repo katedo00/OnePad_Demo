@@ -1,0 +1,44 @@
+
+newmtl StandardFFD10041
+Kd  01 0.8196078 00
+Ks  00 00 00
+Ka  00 00 00
+d  0.25490198
+Ns  00
+illum 2
+
+
+
+
+newmtl StandardF1CC2C
+Kd  0.9450981 0.8 0.172549
+Ks  00 00 00
+Ka  00 00 00
+d  01
+Ns  00
+illum 2
+
+
+
+
+newmtl StandardFFFFFF
+Kd  01 01 01
+Ks  00 00 00
+Ka  00 00 00
+d  01
+Ns  00
+illum 2
+
+
+
+
+newmtl StandardFFD100
+Kd  01 0.8196078 00
+Ks  00 00 00
+Ka  00 00 00
+d  01
+Ns  00
+illum 2
+
+
+
